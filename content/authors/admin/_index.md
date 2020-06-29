@@ -2,10 +2,7 @@
 title: SeongHyeon Park
 role: Researcher
 avatar_filename: b.jpg
-bio: SeongHyoen Park is a researcher (M.S.) at the Research Institute of
-  Electrical and Computer Engineering, Hanyang University. His research
-  interests include deep-learning methods for trajectory forecasting, generative
-  models, and multimodal machine learning.
+bio: ""
 organizations:
   - name: Research Institute of Electrical and Computer Engineering
     url: http://riec.hanyang.ac.kr/
