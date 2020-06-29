@@ -19,3 +19,4 @@ education:
       year: 2018
 superuser: true
 ---
+SeongHyoen Park is a researcher (M.S.) at the Research Institute of Electrical and Computer Engineering, Hanyang University. His research interests include deep-learning methods for trajectory forecasting, generative models, and multimodal machine learning.
