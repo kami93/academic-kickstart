@@ -17,6 +17,6 @@ education:
     - course: BS in Electrical Engineering
       institution: Hanyang University
       year: 2018
-superuser: true
+superuser: false
 ---
 SeongHyoen Park is a researcher (M.S.) at the Research Institute of Electrical and Computer Engineering, Hanyang University. His research interests include deep-learning methods for trajectory forecasting, generative models, and multimodal machine learning.
