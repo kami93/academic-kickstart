@@ -1,5 +1,5 @@
 ---
-title: Hey, I'm SeongHyeon!
+title: SeongHyeon Park
 role: Researcher
 avatar_filename: avatar.jpg
 bio: ""
