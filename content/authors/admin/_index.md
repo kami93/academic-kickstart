@@ -1,7 +1,6 @@
 ---
 title: SeongHyeon Park
 role: Researcher
-avatar_filename: b.jpg
 bio: ""
 organizations:
   - name: Research Institute of Electrical and Computer Engineering
