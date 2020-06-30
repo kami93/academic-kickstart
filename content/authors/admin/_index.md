@@ -1,12 +1,12 @@
 ---
-title: SeongHyeon Park
+title: Hey, I'm SeongHyeon!
 role: Researcher
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Artificial Intelligence
   - Trajectory Forecasting
   - Machine Learning
+  - Intelligent Vehicles
 social:
   - icon: google-scholar
     icon_pack: ai
@@ -24,4 +24,4 @@ education:
       year: 2018
 superuser: true
 ---
-SeongHyoen Park is a researcher at the Research Institute of Electrical and Computer Engineering, Hanyang University. His research interests include deep-learning methods for trajectory forecasting, generative models, and multimodal machine learning.
+I am a Researcher at the **[RIEC](http://riec.hanyang.ac.kr/)**, Hanyang University, mainly working on the research projects for intelligent vehicles. I focus on generative models and multimodal machine learning to build novel trajectory forecasting methods for intelligent vehicles and mobile robots.
