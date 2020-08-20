@@ -1,6 +1,6 @@
 ---
 title: SeongHyeon Park
-role: Researcher
+role: Research Scientist
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -12,8 +12,8 @@ social:
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 organizations:
-  - name: Research Institute of Electrical and Computer Engineering
-    url: http://riec.hanyang.ac.kr/
+  - name: Research Institute of Hanyang University
+    url: https://www.hanyang.ac.kr/web/eng/research-institute
 education:
   courses:
     - course: MS in Electrical Engineering
@@ -24,4 +24,4 @@ education:
       year: 2018
 superuser: true
 ---
-I am a Researcher at the **[RIEC](http://riec.hanyang.ac.kr/)**, Hanyang University, mainly working on the research projects for intelligent vehicles. I focus on generative models and multimodal machine learning to build novel trajectory forecasting methods for intelligent vehicles and mobile robots.
+I am a Research Scientist at the **[Research Institute of Hanyang University](https://www.hanyang.ac.kr/web/eng/research-institute)**, mainly working on the research projects for intelligent vehicles. I focus on generative models and multimodal machine learning to build novel trajectory forecasting methods for intelligent vehicles and mobile robots.
