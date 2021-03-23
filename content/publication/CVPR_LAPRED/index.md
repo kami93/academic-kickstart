@@ -25,7 +25,7 @@ publication_types:
   - "1"
 title: "LaPred: Lane-Aware Prediction of Multi-Modal Future Trajectories of
   Dynamic Agents"
-date: 2021-03-22T23:00:00.000Z
+date: 2021-03-22
 publication: IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021
 image:
   placement: 1
