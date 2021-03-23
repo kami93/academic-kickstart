@@ -137,18 +137,9 @@ collections:
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - {label: "Publish this page on", name: "date", widget: "datetime"}
       - {label: "Summary", name: "summary", widget: "markdown", required: false}
-      - label: "Draft"
-        name: "draft"
-        widget: "boolean"
-        default: false
-      - label: "Featured"
-        name: "featured"
-        widget: "boolean"
-        default: false
-      - label: "Authors"
-        name: "authors"
-        required: false
-        widget: "list"
+      - {label: "Draft", name: "draft", widget: "boolean", default: false, required: false}
+      - {label: "Featured", name: "featured", widget: "boolean", default: false, required: false}
+      - {label: "Authors", name: "authors", required: false, widget: "list"}
       - label: "Tags"
         name: "tags"
         required: false
