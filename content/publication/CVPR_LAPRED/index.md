@@ -1,8 +1,4 @@
 ---
-image:
-  filename: screen-shot-2021-03-23-at-3.05.15-pm.png
-  focal_point: Smart
-  preview_only: false
 draft: false
 abstract: In this paper, we address the problem of predicting the future motion
   of a dynamic agent (called target agent) given its present and past states and
