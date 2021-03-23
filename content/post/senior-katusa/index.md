@@ -5,9 +5,9 @@ summary: A draft statement preparing for my Ph.D. admissions.
 draft: false
 featured: false
 image:
-  placement: 2
+  placement: 1
   caption: "My ofﬁcial photo as the Senior KATUSA, 2014."
-  focal_point: "Center"
+  focal_point: "Smart"
   preview_only: false
 ---
 I can enhance your community’s diversity and inclusion with my military experiences. From July 2013 to April 2015, I successfully fulfilled my duty as a non-commissioned ofﬁcer (NCO) in the United States Forces Korea, advancing the United States–Korea joint force’s diversity and uniformity as a comrade. I did face challenging circumstances upon taking my responsibility as a part of the leadership, including overcoming the sense of incompatibility. Two different branches–the United States and Korean armies shared a common mission to defend freedom in East Asia. However, there was a considerable asymmetry in social status between them. The American soldiers were the military professionals as their job while Korean soldiers were mostly college students fulfilling their mandatory military service in the army. There was also a signiﬁcant gap between their salaries where Korean soldiers only received a minimal monthly wage (~$150 a month), about a tenth of the American soldiers’ basic pay. Such social and economic discrepancies acted as a source of segregation between the two branches. For instance, Korean soldiers were often demotivated to perform their job, indifferent to their honor to serve the nation, and avoided daily duties. They also found it hard to socialize with the American soldiers because spending a few dollars to talk over a drink was a burden, unless they received financial support from family. As a result, Korean soldiers fell behind and failed to grow as sergeants (i.e., non-commissioned ofﬁcers), who must demonstrate proper leadership and sound decision-making.
