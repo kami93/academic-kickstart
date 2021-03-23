@@ -10,7 +10,7 @@ interests:
 social:
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/citations?user=ZRKX9B0AAAAJ
 organizations:
   - name: Research Institute of Hanyang University
     url: https://www.hanyang.ac.kr/web/eng/research-institute
