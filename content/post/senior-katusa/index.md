@@ -5,8 +5,8 @@ summary: A draft statement preparing for my Ph.D. admissions.
 draft: false
 featured: false
 image:
-  placement: 1
-  caption: "Results"
+  placement: 2
+  caption: "My ofﬁcial photo as the Senior KATUSA, 2014."
   focal_point: "Center"
   preview_only: false
 ---
