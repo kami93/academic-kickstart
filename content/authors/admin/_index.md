@@ -1,11 +1,11 @@
 ---
-title: SeongHyeon Park
-role: Research Scientist
+title: Seong Hyeon Park
+role: Researcher
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Trajectory Forecasting
   - Machine Learning
+  - Trajectory Forecasting
   - Intelligent Vehicles
 social:
   - icon: google-scholar
@@ -24,4 +24,4 @@ education:
       year: 2018
 superuser: true
 ---
-I am a Research Scientist at the **[Research Institute of Hanyang University](https://www.hanyang.ac.kr/web/eng/research-institute)**, mainly working on the research projects for intelligent vehicles. I focus on generative models and multimodal machine learning to build novel trajectory forecasting methods for intelligent vehicles and mobile robots.
+I am a researcher at the **[Research Institute of Hanyang University](https://www.hanyang.ac.kr/web/eng/research-institute)** where I am working on developing context-aware motion forecasting technologies. Specifically, I focus on machine learning models that enable robots (and vehicles) to comprehend multimodal contexts (e.g., vision, policy, and language) and predict surrounding agents' intentions and actions. To realize them, I develop and use novel deep neural network architectures, generative models, and policy-learning algorithms.
