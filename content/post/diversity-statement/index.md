@@ -14,7 +14,7 @@ I can enhance your community’s diversity and inclusion with my military experi
 
 To overcome the problem and cultivate genuine uniformity between the American and Korean soldiers, I lead them by example. I promoted a closer understanding among the soldiers by volunteering to take the American soldiers to the Korean baseball league, which was a big hit because it allowed for socialization between the American and Korean soldiers. The American soldiers were excited about the Korean baseball league’s fan chants, and they favorably treated Korean soldiers asking to take them to baseball games. It enhanced Korean soldiers' self-esteem and value recognized by American soldiers. In addition, their fluency in English is significantly improved, which effectively contributed to the United States–⁠Korea joint force’s strength. My efforts were recognized by my chain of command and they recommended me to the Warrior Leader Course at the Wightman NCO Academy. While soldiers are usually allowed to enter an NCO academy after spending about three years in the Army, I made it in after only 16 months. I successfully graduated from the course and was assigned duty of the Senior KATUSA who should represent about 50 enlisted Korean soldiers in the company. I was a proud and respected member of the company’s leadership and fulfilled my duty with honor until my separation.
 
-Solarized dark             |  Solarized Ocean
+WLC diploma           |  My ofﬁcial Senior KATUSA photo
 :-------------------------:|:-------------------------:
 ![](diploma.png)  |  ![](featured.jpg)
 
