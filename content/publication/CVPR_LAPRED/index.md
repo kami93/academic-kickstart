@@ -1,5 +1,6 @@
 ---
 draft: false
+featured: false
 abstract: In this paper, we address the problem of predicting the future motion
   of a dynamic agent (called target agent) given its present and past states and
   the information on its environment. It is paramount to develop a prediction
@@ -26,5 +27,9 @@ title: "LaPred: Lane-Aware Prediction of Multi-Modal Future Trajectories of
   Dynamic Agents"
 date: 2021-03-22T23:00:00.000Z
 publication: IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021
-featured: false
+image:
+  placement: 1
+  caption: "Results"
+  focal_point: "Center"
+  preview_only: false
 ---
