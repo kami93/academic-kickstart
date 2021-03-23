@@ -1,6 +1,19 @@
 ---
 draft: false
 featured: false
+title: "LaPred: Lane-Aware Prediction of Multi-Modal Future Trajectories of
+  Dynamic Agents"
+date: 2021-03-22
+publication: IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021
+authors:
+  - ByeongDo Kim
+  - Seong Hyeon Park
+  - Seokhwan Lee
+  - Elbek Khoshimjonov
+  - Dongsuk Kum
+  - Junsoo Kim
+  - Jeong Soo Kim
+  - Jun Won Choi
 abstract: In this paper, we address the problem of predicting the future motion
   of a dynamic agent (called target agent) given its present and past states and
   the information on its environment. It is paramount to develop a prediction
@@ -23,13 +36,6 @@ abstract: In this paper, we address the problem of predicting the future motion
   achieving state-of-the-art performance in the benchmarks.
 publication_types:
   - "1"
-title: "LaPred: Lane-Aware Prediction of Multi-Modal Future Trajectories of
-  Dynamic Agents"
-date: 2021-03-22
-publication: IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021
-authors:
-  - Byeong Do Kim
-  - Seong Hyeon Park
 image:
   placement: 1
   caption: "Results"
