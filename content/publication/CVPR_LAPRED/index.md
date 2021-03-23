@@ -27,6 +27,9 @@ title: "LaPred: Lane-Aware Prediction of Multi-Modal Future Trajectories of
   Dynamic Agents"
 date: 2021-03-22
 publication: IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021
+authors:
+  - Byeong Do Kim
+  - Seong Hyeon Park
 image:
   placement: 1
   caption: "Results"
