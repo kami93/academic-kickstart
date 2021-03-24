@@ -1,6 +1,6 @@
 ---
 title: "[Video] Oral Session at IV'18"
-date: 2020-10-29
+date: 2018-06-29
 summary: Sequence-to-Sequence Prediction of Vehicle Trajectory via LSTM Encoder-Decoder Architecture
 draft: false
 featured: false
