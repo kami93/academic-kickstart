@@ -4,16 +4,16 @@ role: Researcher
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Machine Learning
-  - Trajectory Forecasting
-  - Intelligent Vehicles
+  - Deep Learning
+  - Multimodal Representation Learning
+  - Predictive Uncertainty
 social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=ZRKX9B0AAAAJ
 organizations:
-  - name: Research Institute of Industrial Science
-    url: http://riis.hanyang.ac.kr
+  - name: Algorithmic Intelligence Laboratory
+    url: http://alinlab.kaist.ac.kr/index.html
 education:
   courses:
     - course: MS in Electrical Engineering
@@ -24,5 +24,4 @@ education:
       year: 2018
 superuser: true
 ---
-I am a researcher at the **[Research Institute of Industrial Science](http://riis.hanyang.ac.kr)**, Hanyang University, where I develop context-aware motion forecasting technologies. Specifically, I am focusing on machine learning models that enable robots (and vehicles) to comprehend multimodal context (e.g., vision, policy, and language) in the environment and predict the actions of surrounding agents. Previously, I earned my Master's degree from Hanyang University with studies on deep learning models for trajectory prediction.
-<!-- I am currently seeking a position at research laboratories/schools to study (and possibly pursue a degree in) machine learning theory to understand, quantify, and deal with uncertainty in the real world agents' motions and interactions. If you are interested in advising me at your group, please contact me through **[shpark@spa.hanyang.ac.kr](mailto://shpark@spa.hanyang.ac.kr)**. -->
+I focus on multimodal representation learning. In particular, much interest of mine is now on capturing complementary interactions between texts and vision, and a model's sense of uncertainty under quantitative and qualitative variations in the multimodal information. I am pursing my Ph.D. degree at Algorithmic Intelligence Laboratory - KAIST, advised by Dr. Jinwoo Shin (My official terms of study is starting from September 2021). Previously, I graduated from Hanyang University with M.S. and B.S degrees under Dr. Jun-Won Choi, where I studied machine learning models for motion forecasting. Please find my CV for more details!
